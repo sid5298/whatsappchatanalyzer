@@ -4,6 +4,8 @@ An interactive, premium **Streamlit** web application that parses exported Whats
 
 👉 **Perfect for data scientist & analyst portfolios!**
 
+🔗 **Live Demo:** [https://whatsapp-chat-analyzer-sid.streamlit.app/](https://whatsapp-chat-analyzer-sid.streamlit.app/)
+
 ---
 
 ## ✨ Features
