@@ -1,0 +1,12 @@
+streamlit
+pandas
+altair
+matplotlib
+seaborn
+nltk
+gensim
+pyLDAvis
+scikit-learn
+emoji
+urlextract
+wordcloud

@@ -9,6 +9,7 @@ Thumbs.db
 
 # WhatsApp Chat files (to prevent committing personal data)
 *.txt
+!requirements.txt
 *.webp
 *.mp4
 *.pdf
