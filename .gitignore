@@ -17,3 +17,6 @@ Thumbs.db
 
 # Streamlit config/files
 .streamlit/
+
+# Local-only study guides
+interview_preparation.md
