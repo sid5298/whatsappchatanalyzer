@@ -21,3 +21,7 @@ Thumbs.db
 # Local-only study guides
 interview_preparation.md
 code_walkthrough.md
+
+# Local benchmarking scripts
+benchmark.py
+real_benchmark.py
